@@ -1,0 +1,16 @@
+C:\Users\Alessandro\www\TypeInference\bin\Debug\net5.0\TypeInference.exe
+C:\Users\Alessandro\www\TypeInference\bin\Debug\net5.0\TypeInference.deps.json
+C:\Users\Alessandro\www\TypeInference\bin\Debug\net5.0\TypeInference.runtimeconfig.json
+C:\Users\Alessandro\www\TypeInference\bin\Debug\net5.0\TypeInference.runtimeconfig.dev.json
+C:\Users\Alessandro\www\TypeInference\bin\Debug\net5.0\TypeInference.dll
+C:\Users\Alessandro\www\TypeInference\bin\Debug\net5.0\ref\TypeInference.dll
+C:\Users\Alessandro\www\TypeInference\bin\Debug\net5.0\TypeInference.pdb
+C:\Users\Alessandro\www\TypeInference\obj\Debug\net5.0\TypeInference.csprojAssemblyReference.cache
+C:\Users\Alessandro\www\TypeInference\obj\Debug\net5.0\TypeInference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\www\TypeInference\obj\Debug\net5.0\TypeInference.AssemblyInfoInputs.cache
+C:\Users\Alessandro\www\TypeInference\obj\Debug\net5.0\TypeInference.AssemblyInfo.cs
+C:\Users\Alessandro\www\TypeInference\obj\Debug\net5.0\TypeInference.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\www\TypeInference\obj\Debug\net5.0\TypeInference.dll
+C:\Users\Alessandro\www\TypeInference\obj\Debug\net5.0\ref\TypeInference.dll
+C:\Users\Alessandro\www\TypeInference\obj\Debug\net5.0\TypeInference.pdb
+C:\Users\Alessandro\www\TypeInference\obj\Debug\net5.0\TypeInference.genruntimeconfig.cache
