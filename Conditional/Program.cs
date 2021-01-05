@@ -4,20 +4,32 @@ namespace Conditional
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            int temperatura = 20;
+            Console.Write("Digita il valore:");
+            string Valore = Console.ReadLine();
 
-            if (temperatura > 25) {
-                Console.WriteLine("Fa caldo!");
-            } else if (temperatura<20) {
-                Console.WriteLine("Fa freddo!");                
+            if (Valore == "primo")
+            {
+                    Console.WriteLine("Hai digitato 'primo'");
+            } else if (Valore == "secondo") {
+                Console.WriteLine("Hai digitato 'secondo'");
             } else {
-                Console.WriteLine("Si sta bene!");                
+                Console.WriteLine("Hai digitato un valore non previsto");
             }
 
-            Console.WriteLine((temperatura>25) ? "Fa caldo!" : "Si sta bene!");
-
+            switch (Valore)
+            {
+                case "primo":
+                    Console.WriteLine("Hai digitato 'primo'");
+                    break;
+                case "secondo":
+                    Console.WriteLine("Hai digitato 'secondo'");
+                    break;
+                default:
+                    Console.WriteLine("Hai digitato un valore non previsto");
+                    break;
+            }
             
         }
     }

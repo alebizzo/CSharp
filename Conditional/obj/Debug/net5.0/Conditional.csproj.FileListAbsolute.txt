@@ -1,0 +1,16 @@
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Conditional\obj\Debug\net5.0\Conditional.csprojAssemblyReference.cache
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Conditional\obj\Debug\net5.0\Conditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Conditional\obj\Debug\net5.0\Conditional.AssemblyInfoInputs.cache
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Conditional\obj\Debug\net5.0\Conditional.AssemblyInfo.cs
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Conditional\obj\Debug\net5.0\Conditional.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Conditional\bin\Debug\net5.0\Conditional.exe
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Conditional\bin\Debug\net5.0\Conditional.deps.json
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Conditional\bin\Debug\net5.0\Conditional.runtimeconfig.json
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Conditional\bin\Debug\net5.0\Conditional.runtimeconfig.dev.json
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Conditional\bin\Debug\net5.0\Conditional.dll
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Conditional\bin\Debug\net5.0\ref\Conditional.dll
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Conditional\bin\Debug\net5.0\Conditional.pdb
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Conditional\obj\Debug\net5.0\Conditional.dll
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Conditional\obj\Debug\net5.0\ref\Conditional.dll
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Conditional\obj\Debug\net5.0\Conditional.pdb
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Conditional\obj\Debug\net5.0\Conditional.genruntimeconfig.cache

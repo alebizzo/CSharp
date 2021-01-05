@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alessandro\\www\\CSharp\\Conditional\\Conditional.csproj": {}
+    "C:\\Users\\Alessandro\\OneDrive\\Documenti\\www\\CSharp\\Conditional\\Conditional.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alessandro\\www\\CSharp\\Conditional\\Conditional.csproj": {
+    "C:\\Users\\Alessandro\\OneDrive\\Documenti\\www\\CSharp\\Conditional\\Conditional.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alessandro\\www\\CSharp\\Conditional\\Conditional.csproj",
+        "projectUniqueName": "C:\\Users\\Alessandro\\OneDrive\\Documenti\\www\\CSharp\\Conditional\\Conditional.csproj",
         "projectName": "Conditional",
-        "projectPath": "C:\\Users\\Alessandro\\www\\CSharp\\Conditional\\Conditional.csproj",
+        "projectPath": "C:\\Users\\Alessandro\\OneDrive\\Documenti\\www\\CSharp\\Conditional\\Conditional.csproj",
         "packagesPath": "C:\\Users\\Alessandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alessandro\\www\\CSharp\\Conditional\\obj\\",
+        "outputPath": "C:\\Users\\Alessandro\\OneDrive\\Documenti\\www\\CSharp\\Conditional\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
