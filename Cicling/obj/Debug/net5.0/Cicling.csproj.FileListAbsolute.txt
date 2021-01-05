@@ -1,0 +1,16 @@
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Cicling\bin\Debug\net5.0\Cicling.exe
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Cicling\bin\Debug\net5.0\Cicling.deps.json
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Cicling\bin\Debug\net5.0\Cicling.runtimeconfig.json
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Cicling\bin\Debug\net5.0\Cicling.runtimeconfig.dev.json
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Cicling\bin\Debug\net5.0\Cicling.dll
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Cicling\bin\Debug\net5.0\ref\Cicling.dll
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Cicling\bin\Debug\net5.0\Cicling.pdb
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Cicling\obj\Debug\net5.0\Cicling.csprojAssemblyReference.cache
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Cicling\obj\Debug\net5.0\Cicling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Cicling\obj\Debug\net5.0\Cicling.AssemblyInfoInputs.cache
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Cicling\obj\Debug\net5.0\Cicling.AssemblyInfo.cs
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Cicling\obj\Debug\net5.0\Cicling.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Cicling\obj\Debug\net5.0\Cicling.dll
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Cicling\obj\Debug\net5.0\ref\Cicling.dll
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Cicling\obj\Debug\net5.0\Cicling.pdb
+C:\Users\Alessandro\OneDrive\Documenti\www\CSharp\Cicling\obj\Debug\net5.0\Cicling.genruntimeconfig.cache
