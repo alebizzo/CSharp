@@ -1,0 +1,16 @@
+C:\Users\Alessandro\www\CSharp\Biblio\obj\Debug\net5.0\Biblio.csprojAssemblyReference.cache
+C:\Users\Alessandro\www\CSharp\Biblio\obj\Debug\net5.0\Biblio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\www\CSharp\Biblio\obj\Debug\net5.0\Biblio.AssemblyInfoInputs.cache
+C:\Users\Alessandro\www\CSharp\Biblio\obj\Debug\net5.0\Biblio.AssemblyInfo.cs
+C:\Users\Alessandro\www\CSharp\Biblio\obj\Debug\net5.0\Biblio.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\www\CSharp\Biblio\bin\Debug\net5.0\Biblio.exe
+C:\Users\Alessandro\www\CSharp\Biblio\bin\Debug\net5.0\Biblio.deps.json
+C:\Users\Alessandro\www\CSharp\Biblio\bin\Debug\net5.0\Biblio.runtimeconfig.json
+C:\Users\Alessandro\www\CSharp\Biblio\bin\Debug\net5.0\Biblio.runtimeconfig.dev.json
+C:\Users\Alessandro\www\CSharp\Biblio\bin\Debug\net5.0\Biblio.dll
+C:\Users\Alessandro\www\CSharp\Biblio\bin\Debug\net5.0\ref\Biblio.dll
+C:\Users\Alessandro\www\CSharp\Biblio\bin\Debug\net5.0\Biblio.pdb
+C:\Users\Alessandro\www\CSharp\Biblio\obj\Debug\net5.0\Biblio.dll
+C:\Users\Alessandro\www\CSharp\Biblio\obj\Debug\net5.0\ref\Biblio.dll
+C:\Users\Alessandro\www\CSharp\Biblio\obj\Debug\net5.0\Biblio.pdb
+C:\Users\Alessandro\www\CSharp\Biblio\obj\Debug\net5.0\Biblio.genruntimeconfig.cache

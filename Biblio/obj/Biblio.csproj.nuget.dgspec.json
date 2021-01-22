@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alessandro\\OneDrive\\Documenti\\www\\CSharp\\Biblio\\Biblio\\Biblio.csproj": {}
+    "C:\\Users\\Alessandro\\www\\CSharp\\Biblio\\Biblio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alessandro\\OneDrive\\Documenti\\www\\CSharp\\Biblio\\Biblio\\Biblio.csproj": {
+    "C:\\Users\\Alessandro\\www\\CSharp\\Biblio\\Biblio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alessandro\\OneDrive\\Documenti\\www\\CSharp\\Biblio\\Biblio\\Biblio.csproj",
+        "projectUniqueName": "C:\\Users\\Alessandro\\www\\CSharp\\Biblio\\Biblio.csproj",
         "projectName": "Biblio",
-        "projectPath": "C:\\Users\\Alessandro\\OneDrive\\Documenti\\www\\CSharp\\Biblio\\Biblio\\Biblio.csproj",
+        "projectPath": "C:\\Users\\Alessandro\\www\\CSharp\\Biblio\\Biblio.csproj",
         "packagesPath": "C:\\Users\\Alessandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alessandro\\OneDrive\\Documenti\\www\\CSharp\\Biblio\\Biblio\\obj\\",
+        "outputPath": "C:\\Users\\Alessandro\\www\\CSharp\\Biblio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
